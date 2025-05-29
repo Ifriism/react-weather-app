@@ -28,26 +28,26 @@
 }
 
 .Weather img {
-    height: 64px;
-    width: 64px;
+    height: 70px;
+    width: 70px;
     display: inline-block;
 }
 
-.Weather .temperature {
+.Weather .WeatherUnits {
     display: inline-block;
     vertical-align: top;
-    font-size: 48px;
+    font-size: 46px;
     font-weight: 400;
     color: #202124;
-    margin-left: 5px;
+    margin-left: 3px;
 
 }
 
 .Weather .unit {
     color: #202124;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     padding-left: 2px;
     position: relative;
-    top: -4px;
+    top: -20px;
 }
