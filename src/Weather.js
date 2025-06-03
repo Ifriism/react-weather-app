@@ -58,7 +58,7 @@ export default function Weather(props) {
             type="submit"
             value="Search"
             autoFocus="on"
-            className="btn btn-primary w-100" />
+            className="button w-100" />
                  </div>
         </div>
         </form>
