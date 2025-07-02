@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./Weather.css";
 import axios from "axios";
+import { useMediaQuery } from 'react-responsive'
 import WeatherInfo from "./WeatherInfo";
 import WeatherForecast from "./WeatherForecast";
 

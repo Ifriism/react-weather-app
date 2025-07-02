@@ -46,6 +46,7 @@
 }
 
 .Weather .button {
+    color: #fff;
     background-color: rgb(165, 219, 242);
     padding: 7px 7px;
     border-radius: 6px;
