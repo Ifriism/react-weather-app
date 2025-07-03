@@ -1,6 +1,5 @@
 import React from "react";
 import FormattedDate from "./FormattedDate";
-import { useMediaQuery } from 'react-responsive'
 import "./WeatherInfo.css";
 
 

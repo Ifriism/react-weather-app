@@ -46,10 +46,11 @@
 }
 
 .Weather .button {
-    color: #fff;
-    background-color: rgb(165, 219, 242);
+    color: black;
+    font-weight: 500;
+    background-color: #fff;
     padding: 7px 7px;
     border-radius: 6px;
-    border: none;
+    border: 1px solid #dadde1;
     font-size: 16px;
 }
