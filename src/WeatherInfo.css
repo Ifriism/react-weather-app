@@ -11,8 +11,14 @@
     margin-bottom: 5px;
 }
 
-.WeatherInfo .weatherConditions {
-    text-align: center;
-    margin-top: 40px;
+.WeatherInfo .weatherConditions li {
+    font-size: 15px;
+    text-align: right;
+    margin-right: 30px;
+   
+}
+
+.WeatherInfo .humidity {
+    margin-top: 33px;
 }
 
